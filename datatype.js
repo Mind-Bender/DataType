@@ -25,3 +25,9 @@ addItem = () => {
 
 
 addItem();
+
+//Korey's Changes 
+
+items = ["shoes", "pants", "shirts"];
+
+items.forEach((element) => console.log(element));
